@@ -2,7 +2,7 @@
 
 Welcome to the **Interactive HR Analytics Dashboard** created in Power BI. This dashboard provides a comprehensive overview of workforce trends and enables HR teams to make data-driven decisions quickly and effectively.  
 
-**View the live dashboard here:** [HR Analytics Dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)  
+**View the live dashboard here:** [HR Analytics Dashboard in Power BI]([https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)  ](https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)
 
 ---
 
@@ -36,5 +36,5 @@ The report is **published on Power BI Service**, making it easily accessible onl
 
 ## Access
 
-You can explore the live dashboard here: [Interactive HR Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)  
+You can explore the live dashboard here: [Interactive HR Analytics Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9](https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9))  
 
