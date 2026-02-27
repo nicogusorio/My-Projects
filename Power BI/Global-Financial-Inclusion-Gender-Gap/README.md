@@ -76,12 +76,4 @@ Tools Used:
 - DAX
 - Power Query
 
-Key Measures Developed:
-
-- Gender Gap %
-- Gender Gap Change (2017–2014)
-- Dynamic Top 10 ranking logic
-- Year-based filtering
-- Visual-level and page-level filtering
-
 This project demonstrates the ability to transform structured economic data into clear, decision-support insights.
