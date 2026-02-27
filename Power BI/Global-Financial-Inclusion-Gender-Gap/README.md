@@ -3,10 +3,10 @@
 ## Live Dashboard
 
 View the interactive dashboard here:  
-🔗[ https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY1NmUtOGMwYi00NmIzLThiN2MtNGZmMzg1NTRmM2VmIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY1NmUtOGMwYi00NmIzLThiN2MtNGZmMzg1NTRmM2VmIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)
+🔗[[ https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY1NmUtOGMwYi00NmIzLThiN2MtNGZmMzg1NTRmM2VmIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY1NmUtOGMwYi00NmIzLThiN2MtNGZmMzg1NTRmM2VmIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)
 
 ## Project Overview
-
+](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MWY1NmUtOGMwYi00NmIzLThiN2MtNGZmMzg1NTRmM2VmIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9)
 This project analyzes global financial inclusion data from the World Bank Global Findex dataset to evaluate gender disparities in financial account ownership between 2014 and 2017.
 
 The objective of this analysis was to:
