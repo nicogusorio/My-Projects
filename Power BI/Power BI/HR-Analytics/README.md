@@ -1,9 +1,9 @@
 # HR Analytics Dashboard – Workforce & Attrition Analysis (Power BI)
 
 ## Project Overview
-View Dashboard here: https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9
 
 This HR Analytics dashboard analyzes workforce composition, attrition patterns, promotion eligibility, tenure distribution, job levels, and demographic breakdowns using Power BI.
+View Dashboard here: https://app.powerbi.com/view?r=eyJrIjoiNDI4NWIyNTgtYWVmMC00MzA2LTk0YmYtNjYwNGZiM2JmNWNkIiwidCI6IjMwYWUwYThmLTNjZGYtNDRmZC1hZjM0LTI3OGJmNjM5Yjg1ZCIsImMiOjF9
 
 The objective of this project was to:
 
