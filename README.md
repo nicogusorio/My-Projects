@@ -1,32 +1,87 @@
-# My-Projects
+# Data Analytics Portfolio
 
-A collection of data analysis and visualization projects using Excel, Python, R, Tableau, and Power BI — created to showcase my skills in data manipulation, statistical analysis, and visual presentation.
+A collection of end-to-end data analysis and business intelligence projects using Excel, SQL, Python, R, Tableau, and Power BI.
 
-## Project Overview
+This repository demonstrates my ability to clean, analyze, and interpret structured datasets while presenting findings through professional reports and interactive dashboards.
 
-This repository contains several stand-alone projects, each focusing on different datasets or analytical goals. The projects are organized into subfolders, such as:
+---
 
--`Excel-Projects` — Structured sales and performance analysis using Excel. This includes category-based comparisons, profit evaluation, trend identification, and written insight summaries derived from pivot tables and aggregated data.  
-- `Data-Visualization` — Python and R notebooks for data cleaning, exploratory analysis, and visualization.  
-- `Tableau-Project` — Tableau workbooks and interactive visual dashboards.  
-- `Power-BI` — Interactive dashboards and business intelligence reports created in Power BI.
+## Projects
 
-Each project includes documentation or README files explaining the workflow, analysis, tools used, and key insights.
+### Excel Projects
+Structured sales and performance analysis using Excel.
 
-## Purpose
+- Data cleaning and aggregation  
+- Pivot table modeling  
+- Trend and profitability analysis  
+- Insight summaries derived from structured metrics  
 
-- Apply theoretical knowledge from Data Analysis to real or simulated datasets.  
-- Build a portfolio demonstrating technical skills across Excel, Python, R, Tableau, and Power BI.  
-- Highlight the ability to interpret data, generate insights, and communicate findings effectively.
+Focus: Business-oriented spreadsheet analysis and financial metric interpretation.
 
-## Skills Showcased
+---
 
-- **Data Cleaning & Preprocessing**: Handling messy or real-world data, missing values, inconsistent formats, and outliers.  
-- **Statistical Analysis & Interpretation**: Using Excel, Python, and R to generate summary statistics, exploratory insights, and performance metrics.  
-- **Visualization & Storytelling**: Creating charts, dashboards, and interactive visuals (scatter plots, bar charts, heatmaps, time-series, etc.).  
-- **Business Intelligence Tools**: Building structured dashboards in Excel, Tableau, and Power BI.  
-- **Reproducibility & Organization**: Structured folders, documented workflows, and clear explanations for understanding or reproducing results.
+### Power BI Projects
 
-## How to Use
+Interactive dashboards and analytical reports built in Power BI.
 
-Explore each project folder to review datasets, analysis files, and visual outputs. Projects are designed to demonstrate a structured, insight-driven approach to data analysis — focusing on clarity, business relevance, and professional presentation.
+Projects include:
+
+- HR Workforce & Attrition Analysis  
+- Global Financial Inclusion (Gender Gap Analysis)
+
+Each project includes its own detailed README outlining methodology, calculated measures, and key insights.
+
+Focus: Data modeling, DAX development, and executive-ready dashboard design.
+
+---
+
+### Data Visualization (Python & R)
+
+Exploratory data analysis and visualization projects using:
+
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- ggplot2  
+
+Focus: Data cleaning, statistical exploration, and visual storytelling.
+
+---
+
+### Tableau Projects
+
+Interactive dashboards designed to:
+
+- Present performance metrics  
+- Enable user-driven filtering  
+- Support data-driven decision making  
+
+Focus: Dashboard usability and business communication.
+
+---
+
+
+## Technical Skills
+
+- Data Cleaning & Transformation   
+- DAX & Calculated Measures  
+- Time-Series & Comparative Analysis  
+- Ranking & Segmentation Logic  
+- Dashboard Design & Visualization  
+- Insight Communication  
+
+---
+
+## Analytical Approach
+
+Across all projects, I focus on:
+
+1. Structuring and preparing raw data  
+2. Building calculated metrics aligned with business questions  
+3. Identifying trends and performance drivers  
+4. Translating quantitative results into clear insights  
+5. Presenting findings in a professional, decision-oriented format  
+
+---
+
+Each project folder contains detailed documentation explaining the workflow, tools used, and conclusions.
