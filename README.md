@@ -8,7 +8,7 @@ This repository demonstrates my ability to clean, analyze, and interpret structu
 
 ## Projects
 
-### Excel Projects
+### Excel Project
 Structured sales and performance analysis using Excel.
 
 - Data cleaning and aggregation  
@@ -48,7 +48,7 @@ Focus: Data cleaning, statistical exploration, and visual storytelling.
 
 ---
 
-### Tableau Projects
+### Tableau Project
 
 Interactive dashboards designed to:
 
