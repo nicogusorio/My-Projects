@@ -20,6 +20,25 @@ Focus: Business-oriented spreadsheet analysis and financial metric interpretatio
 
 ---
 
+### SQL Retail Sales Analysis
+
+Relational data analysis project using SQL to explore sales performance, customer behavior, and profitability trends.
+
+Analysis includes:
+
+- Sales aggregation and performance metrics
+- Customer revenue ranking
+- Product category performance analysis
+- Profitability comparisons across categories
+- Regional sales distribution
+- Table normalization and JOIN-based analysis
+
+The project demonstrates the use of SQL for structured business analysis, including table creation, relational joins, and aggregation queries to extract actionable insights from transactional data.
+
+Focus: Relational database querying, aggregation analysis, and business insight generation using SQL.
+
+---
+
 ### Power BI Projects
 
 Interactive dashboards and analytical reports built in Power BI.
