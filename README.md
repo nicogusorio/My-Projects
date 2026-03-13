@@ -20,7 +20,7 @@ Focus: Business-oriented spreadsheet analysis and financial metric interpretatio
 
 ---
 
-### SQL Retail Sales Analysis
+### SQL Project
 
 Relational data analysis project using SQL to explore sales performance, customer behavior, and profitability trends.
 
